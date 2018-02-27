@@ -1,0 +1,13 @@
+84b3365073b752ad67a81a97f814d05f *DESCRIPTION
+d32239bcb673463ab874e80d47fae504 *LICENSE
+c37c9fd5c270bbe85127b7b206d3fcd3 *NAMESPACE
+bf84a5bc915e50d6cf18df1a0d286a1a *NEWS.md
+cd67fca608d51814527d2f15ffa09e7e *R/rnr.R
+af05f71c9488ac9b1c2cdcee8ea57360 *R/sensitize.R
+498bba43fd374a15e992c5ac6c289612 *R/solve.R
+60c0f2b16a90d0b779c41ad91ce657f2 *README.md
+e414d550f724203a6665b54dc053f6d5 *man/rnr.Rd
+5c998298a9281516698e53ef39eb9282 *man/sensitize.Rd
+181c2e376ba5ea0621783b824605bb89 *tests/testthat.R
+495c80c7f0460b98c9756a29e3438085 *tests/testthat/test-sensitize.R
+2422db8ceddd37a88ceea02713d65550 *tests/testthat/test-solve.R
