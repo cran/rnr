@@ -1,11 +1,11 @@
 Package: rnr
 Type: Package
 Title: Rosenbaum and Rubin Sensitivity
-Version: 0.1.0
+Version: 0.2.0
 Author: Jongbin Jung
 Maintainer: Jongbin Jung <me@jongbin.com>
-Description: Apply sensitivity analysis for offline policy evaluation, as 
-    implemented in Jung et al. (2017) <arXiv:1702.04690> based 
+Description: Apply sensitivity analysis for offline policy evaluation, as
+    implemented in Jung et al. (2017) <arXiv:1702.04690> based
     on Rosenbaum and Rubin (1983) <http://www.jstor.org/stable/2345524>.
 License: GPL-3 | file LICENSE
 Encoding: UTF-8
@@ -14,6 +14,6 @@ Suggests: testthat, covr
 Imports: purrr, assertthat
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-02-26 19:35:39 UTC; jongbin
+Packaged: 2018-04-12 23:20:43 UTC; jongbin
 Repository: CRAN
-Date/Publication: 2018-02-27 10:29:04 UTC
+Date/Publication: 2018-04-13 03:29:26 UTC
